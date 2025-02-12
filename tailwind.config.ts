@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        paper: "var(--paper)",
+        smallPaper: "#1f1f1f",
+        primaryText: "#ffffff",
+        secondaryText: "#B3B3B3",
+        hoverColor: "#2a2a2a",
       },
     },
   },
